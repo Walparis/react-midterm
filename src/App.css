@@ -1,0 +1,5 @@
+.app-wrapper {
+  display: grid;
+  grid-template-columns: 5fr 7fr;
+  margin-left: 50px;
+}

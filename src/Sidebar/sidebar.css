@@ -1,0 +1,10 @@
+.sidebar-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  width: 30%;
+}
+
+.row {
+  font-size: large;
+}
